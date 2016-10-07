@@ -1,3 +1,3 @@
-Moodle Naviation Customizer
+<h2>Moodle Naviation Customizer</h2>
 
-The plugin enables the removal and addition of navitation node items.
+<p>The plugin enables the removal and addition of navitation node items.</p>
